@@ -1,1 +1,1 @@
---Added an autoupdate feature. 
+--Added an auto update feature for MusicJukeBoxControl
