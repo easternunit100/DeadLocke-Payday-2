@@ -1,1 +1,1 @@
---Added an autoupdate feature. 
+--Fixed a crash regarding picking up gold in FirestartersBank heist.
