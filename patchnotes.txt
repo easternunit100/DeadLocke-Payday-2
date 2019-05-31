@@ -1,1 +1,1 @@
---Fixed a crash regarding picking up gold in FirestartersBank heist.
+--Added massive amount of dialogue in "Green Bridge" Heist. Alot of dialogue comes from Payday: The Heist.
