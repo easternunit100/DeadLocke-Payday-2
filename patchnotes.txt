@@ -1,1 +1,2 @@
 --Added massive amount of dialogue in "Green Bridge" Heist. Alot of dialogue comes from Payday: The Heist.
+--Fixed an issue where the system would print out "kicked" instead of "disconnected" when player loses connection.
