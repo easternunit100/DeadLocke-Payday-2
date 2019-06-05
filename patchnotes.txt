@@ -1,1 +1,2 @@
 --Fixed an issue with networking where some values were not sent correctly to peers.
+--When selecting a preferred character or swapping characters, you will get an audio quote from them.
