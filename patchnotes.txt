@@ -1,2 +1,1 @@
---Fixed an issue with networking where some values were not sent correctly to peers.
---When selecting a preferred character or swapping characters, you will get an audio quote from them.
+--Added Character Drama: During assault waves ending, there is a chance characters will have conversations.
