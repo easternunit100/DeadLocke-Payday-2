@@ -1,1 +1,2 @@
---Added Character Drama: During assault waves ending, there is a chance characters will have conversations.
+--changelog will now be in the mod options.
+--Added dialogue to the Shacklethorne Auction heist. Chains, Dallas, Hoxton, and Duke will have dialogue.
