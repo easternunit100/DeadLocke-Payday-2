@@ -1,2 +1,1 @@
---changelog will now be in the mod options.
---Added dialogue to the Shacklethorne Auction heist. Chains, Dallas, Hoxton, and Duke will have dialogue.
+--Changelog will now be in the mod options.
