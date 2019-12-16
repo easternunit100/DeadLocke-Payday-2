@@ -1,2 +1,1 @@
---Added an auto update feature for MusicJukeBoxControl
---Decreased the amount of tracks (Heist Tracks/Menu Tracks) per page.
+--Happy Holidays! Added "Sly gloves" under Specific heist tracks tab.
